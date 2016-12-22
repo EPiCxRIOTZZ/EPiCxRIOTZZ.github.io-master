@@ -1,0 +1,13 @@
+Package: com.EPiCxRIOTZZ.cupcake
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: EPiCxRIOTZZ <EPiCxRIOTZZ@gmail.com>
+Filename: /cupcake.deb
+Size: 2240
+MD5sum: d83569ee73c58e9d0d15d9066fea71a3
+SHA1: f7396e252b0b32b471fccd96b889577fac8f69f7
+SHA256: 1b4f522bb9d22bab61c7c9a5aafc75b9f0a60538aa2358c109ac6612d96af9a3
+Section: Tweaks
+Description: A test tweak for my personal repo.
+Author: EPiCxRIOTZZ <EPiCxRIOTZZ@gmail.com>
+Name: Cupcake
