@@ -1,8 +1,8 @@
-Origin: EPiCxRIOTZZ Repo
-Label: EPiCxRIOTZZ Repo
+Origin: Kodi
+Label: Kodi
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: EPiCxRIOTZZ
+Description: Kodi - a cydia repo template
